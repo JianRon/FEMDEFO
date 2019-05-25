@@ -1,0 +1,54 @@
+﻿  Demo_femdefo.cpp
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(62): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(72): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(90): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(91): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\mesh_io.h(92): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(122): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(123): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(124): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(126): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(127): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\include\simulate.h(128): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\mywork\computergraphics\demo_femdefo\demo_femdefo\demo_femdefo.cpp(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\mywork\computergraphics\demo_femdefo\demo_femdefo\demo_femdefo.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\mywork\computergraphics\demo_femdefo\demo_femdefo\demo_femdefo.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\mywork\computergraphics\demo_femdefo\demo_femdefo\demo_femdefo.cpp(180): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : fatal error LNK1168: 无法打开 D:\MyWork\ComputerGraphics\Demo_femdefo\x64\Debug\Demo_femdefo.exe 进行写入
