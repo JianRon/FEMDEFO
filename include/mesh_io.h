@@ -22,8 +22,14 @@ struct Vertex
 {
 	glm::vec3 position;
 	glm::vec3 force;
+	glm::vec3 Deltax;
+	glm::vec3 Deltaf;
 	glm::vec3 velocity;
 	glm::vec3 normal;
+	glm::vec3 newforce;
+	glm::vec3 newVelocity;
+	glm::vec3 newPosition;
+
 	double mass;
 
 	Vertex()
